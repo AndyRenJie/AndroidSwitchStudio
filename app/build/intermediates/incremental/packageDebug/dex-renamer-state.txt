@@ -1,0 +1,4 @@
+#Fri Dec 08 10:40:42 CST 2017
+base.0=F\:\\AndroidSwitchStudio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=F\:\\AndroidSwitchStudio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

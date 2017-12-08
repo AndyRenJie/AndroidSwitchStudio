@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\AndroidSwitchStudio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="24d7279cae79f8dbff47f0f220bc94195d7b190a">
+        <dex dex="F:\AndroidSwitchStudio\app\build\intermediates\pre-dexed\debug\instant-run_f73a428ef14aa63350ed4fcdf745719676618329.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidSwitchStudio\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\AndroidSwitchStudio\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_680c8ecc1fff9051b72d79c8602a681a506a0471.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidSwitchStudio\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\AndroidSwitchStudio\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_1e10e2bf0699102c087e792c50efa3253649fc08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidSwitchStudio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0907d20a1bb8949cbe5b254dbb7fc38c3de34a7">
+        <dex dex="F:\AndroidSwitchStudio\app\build\intermediates\pre-dexed\debug\instant-run_f73a428ef14aa63350ed4fcdf745719676618329.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidSwitchStudio\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\AndroidSwitchStudio\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_ae9f541449a899c6eda5a1f278e62c7297e123b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidSwitchStudio\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\AndroidSwitchStudio\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_c792173c5baf66688077a4ea9f790c46941d306e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidSwitchStudio\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\AndroidSwitchStudio\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_551f809eb529a87c650578e76f5a7b6e18bfe414.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidSwitchStudio\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\AndroidSwitchStudio\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_e228df7d13871969ce6a84336bd87f8fcbe5f745.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\AndroidSwitchStudio\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_8b5cf2424ddb4d3255fd5b504bc061c33490ae78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidSwitchStudio\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\AndroidSwitchStudio\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_2c4a584e6ad805fd2aba7be909f23264cd6d2988.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidSwitchStudio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc64e5804906239448d3caada1e9472c815c79c7">
+        <dex dex="F:\AndroidSwitchStudio\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_33cc04445f5feb6209a0a3ec891a3021e062ffca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidSwitchStudio\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\AndroidSwitchStudio\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_3f34a715a48642df3719300f59a94679e5d730e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidSwitchStudio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\AndroidSwitchStudio\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_95beba28921d17d0f829f6be88955390df53a356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidSwitchStudio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e3a173a4b0dc4e80227393faa9bf9a88ae514f2">
+        <dex dex="F:\AndroidSwitchStudio\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_33cc04445f5feb6209a0a3ec891a3021e062ffca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidSwitchStudio\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\AndroidSwitchStudio\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_b04003d15cdb8e1c1f7bed43d1a1a29fcca7ab93.jar" />
+    </item>
+
+</items>
