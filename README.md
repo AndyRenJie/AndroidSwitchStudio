@@ -84,7 +84,7 @@
 </set>
 ```
 
-### 转动淡出效果1
+### 转动淡出效果2
 
 ![image](https://github.com/AndyRenJie/AndroidSwitchStudio/blob/master/gif/120804.gif)
 
